@@ -1,0 +1,16 @@
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\AvtosalonApp.exe
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\AvtosalonApp.deps.json
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\AvtosalonApp.runtimeconfig.json
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\AvtosalonApp.runtimeconfig.dev.json
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\AvtosalonApp.dll
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\ref\AvtosalonApp.dll
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\bin\Debug\net5.0\AvtosalonApp.pdb
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.csproj.AssemblyReference.cache
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.AssemblyInfoInputs.cache
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.AssemblyInfo.cs
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.csproj.CoreCompileInputs.cache
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.dll
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\ref\AvtosalonApp.dll
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.pdb
+C:\Users\Magomed\source\repos\AvtosalonApp\AvtosalonApp\obj\Debug\net5.0\AvtosalonApp.genruntimeconfig.cache

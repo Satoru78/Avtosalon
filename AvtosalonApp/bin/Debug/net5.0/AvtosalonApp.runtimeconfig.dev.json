@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Magomed\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Magomed\\.nuget\\packages",
+      "D:\\program\\vs 3\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
